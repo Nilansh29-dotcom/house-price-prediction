@@ -1,2 +1,2 @@
-# house-price-prediction
+# House-price-prediction
 Machine Learning model to predict house prices

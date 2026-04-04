@@ -9,9 +9,10 @@ This project uses Machine Learning to predict house prices based on features lik
 ##  Technologies Used
 
 * Python
-* Pandas, NumPy
+* Pandas
+*  NumPy
 * Scikit-learn
-* Matplotlib / Seaborn
+  
 
 ##  Steps Performed
 
@@ -28,15 +29,14 @@ This project uses Machine Learning to predict house prices based on features lik
 * Mean Squared Error: Low
 
 
-## 🚀 How to Run
+##  How to Run
 
-1. Install dependencies:
-   pip install pandas numpy scikit-learn matplotlib seaborn
+1. Install dependencies: pip install pandas numpy scikit-learn 
 
 2. Run the notebook:
    HousingPriceLinearRegression.ipynb
 
-## 📁 Files
+##  Files
 
 *  HousingPriceLinearRegression.ipynb
-* data.csv
+*  Housing.csv
